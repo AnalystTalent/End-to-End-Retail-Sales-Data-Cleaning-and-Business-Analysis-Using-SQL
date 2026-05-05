@@ -1,6 +1,10 @@
 End-to-End-Retail-Sales-Data-Cleaning-and-Business-Analysis-Using-SQL
 
+Project Overview
 Retail Sales Data Cleaning and Business Analysis using SQL Server. This project involves data cleaning, duplicate removal, handling missing values, standardizing records, and analyzing sales performance, profitability, customer behavior, regional trends, and operational efficiency to generate business insights and support decision-making.
+
+Source of data 
+Kaggle
 
 The project covers:
 - Data exploration
